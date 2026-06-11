@@ -1,6 +1,6 @@
 # Hola, soy Estefany Cueva 👋
 
-Soy Ingeniera Agroindustrial en transición hacia el análisis de datos. Actualmente desarrollo proyectos con SQL, Python, Pandas y Power BI, enfocados en análisis exploratorio, limpieza de datos, visualización y generación de insights para la toma de decisiones.
+Soy Ingeniera Agroindustrial en transición hacia el análisis de datos, cuento con experiencia en gestión de procesos, mejora continua y análisis de información. Actualmente desarrollo proyectos con SQL, Python, Pandas y Power BI, enfocados en análisis exploratorio, limpieza de datos, visualización y generación de insights para la toma de decisiones.
 
 ## Herramientas
 
@@ -19,9 +19,8 @@ Análisis del embudo de conversión, tasas de compra por país y cohortes de usu
 ### Movilidad Urbana y Productividad Económica - Python
 Análisis de la relación entre congestión vehicular y productividad económica en ciudades de Latinoamérica utilizando Python, Pandas y Matplotlib.
 
-## En aprendizaje
+## Herramientas
 
 - Análisis de datos
 - Business Intelligence
-- Machine Learning básico
 - Visualización de datos
